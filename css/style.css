@@ -156,14 +156,14 @@ nav {
     text-align: center;
 }
 
-.reasons .reasons_block {
+.reasons_block {
     display: flex;
     justify-content: center;
     align-items: center;
     margin-top: 35px;
 }
 
-.reasons .reasons_block .reasons_round {
+.reasons_round {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -174,18 +174,18 @@ nav {
     border-radius: 100%;
 }
 
-.reasons .reasons_block .reasons_descr {
+.reasons_descr {
     width: 343px;
 }
 
-.reasons .reasons_block .reasons_descr .reasons_subtitle{
+.reasons_subtitle{
     line-height: 21px;
     color: #1eacc7;
     font-size: 17px;
     font-weight: 400;
 }
 
-.reasons .reasons_block .reasons_descr .reasons_text {
+.reasons_text {
     color: #202020;
     font-size: 15px;
     font-weight: 300;
